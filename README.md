@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # NewYork-subway
-=======
-# NewYork-subway
->>>>>>> -a
+data analysis towards New York subway
